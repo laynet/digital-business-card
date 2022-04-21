@@ -14,6 +14,8 @@
     align-items: center;
     width: 100vw;
     min-height: 100vh;
+    padding: 5rem;
+    
 }
 
 .card {
@@ -22,7 +24,7 @@
    margin: auto; 
    background: #1A1B21;
    border-radius: 10px;
-   padding: 2rem;
+   
    
    
 }
@@ -33,9 +35,10 @@
 
 .info {
     text-align: center;
+    
 }
 
-img {
+.hero--image {
     width: 100%;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
@@ -68,12 +71,21 @@ p {
     line-height: 150%;
 }
 
+a {
+    text-decoration: none;
+}
+
 .btn {
    width: 115px;
    height: 34px;
    border-radius: 6px; 
    border: none;
    margin-bottom: 33px;
+   
+}
+
+.btn img {
+    margin-right: .5rem;
 }
 
 .email-btn {
@@ -91,4 +103,23 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 1rem 4rem;
 }
+
+.icon {
+    width: 25px;
+    height: 25px;
+}
+
+.about,
+.interests {
+    padding: 1rem 2rem;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    
+

@@ -2,9 +2,9 @@ import React from 'react'
 
 const About = () => {
   return (
-    <div>
+    <div className="about">
         <h3>About</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in</p>
+        <p>I'm a self-taught front end developer with an eclectic background and a diverse perspective. I come from an art background and have a passion for design. I strive to have accesible code and am always learning new skills</p>
     </div>
   )
 }

@@ -2,9 +2,9 @@ import React from 'react'
 
 const Interest = () => {
   return (
-    <div>
+    <div className="interests">
         <h3>Interests</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in</p>
+        <p>I'm very interested in robotics and gaming and am slowly building my first gaming pc. I love cooking and try to make all of my food vegan! I try to spend a little time each day reading design theory and philosophy. I'm a huge sci-fi nerd: I love Star Trek and Solarpunk and I like to dream of building a better world.</p>
     </div>
   )
 }
