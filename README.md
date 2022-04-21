@@ -13,7 +13,7 @@
 
 ## Overview
 
-A simple digital business card component made with create-react-app and CSS.
+A simple digital business card component made with create-react-app and CSS and deployed to netlify.
 
 ### Screenshot
 
